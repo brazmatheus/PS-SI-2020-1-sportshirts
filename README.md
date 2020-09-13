@@ -5,7 +5,7 @@
 -  Matheus Braz de aquino
 
 ### Gerente de Projeto
-Henrique Guimarães Ribeiro
+- Henrique Guimarães Ribeiro
 
 ### Provável Tema 
 Um software de gerência de produtos e consumidores para uma empresa especializada em produção, venda e revenda de camisetas esportivas.
