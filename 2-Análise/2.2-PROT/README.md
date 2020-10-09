@@ -1,6 +1,4 @@
-# Protótipos Sportshirts
-
-### Telas a serem prototipadas
+# Protótipos das telas do Sportshirts
 
 - Tela Inicial
   - Sugestões de camisas
