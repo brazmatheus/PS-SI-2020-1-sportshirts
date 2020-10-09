@@ -1,6 +1,6 @@
 # Protótipos Sportshirts
 
-### Telas a serem prototipadas:
+### Telas a serem prototipadas
 
     + Tela Inicial;
     	- Sugestões de camisas;
